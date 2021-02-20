@@ -1,0 +1,7 @@
+{
+  "name": "fia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
